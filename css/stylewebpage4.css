@@ -1,0 +1,26 @@
+.card.instagram {
+  padding-left: 25% !important;
+  padding-right: 25% !important;
+}
+
+
+.jumbotron{
+	background: url(../img/business.jpeg);
+}
+
+.display-1{
+	color: white;
+}
+
+.display-3{
+	color:white;
+}
+
+.p{
+	text-align: justify-all;
+}
+
+.video-card{
+	padding-left: 20% !important;
+	padding-right: 20% !important;
+}
